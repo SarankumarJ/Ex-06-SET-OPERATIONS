@@ -1,4 +1,4 @@
-# Ex-06-SET-OPERATIONS
+## Ex-19 SET OPERATIONS
 ## AIM:-
 To write a sql query to perform set operations on two tables.
 
@@ -16,6 +16,8 @@ Insert Value to the tables.
 Perform Set operations like Union,Union all,Intersect,Except.
 
 ### PROGRAM:-
+#### Developed By : Sarankumar J
+#### Register Number : 212221230087
 ```sql
 CREATE DATABASE SET_OPERATION;
 SHOW DATABASES;
